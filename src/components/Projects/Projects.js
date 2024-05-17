@@ -2,13 +2,13 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
 import emotion from "../../Assets/Projects/emotion.png";
 import BlogWeb from '../../Assets/Projects/blogWeb.png'
-import editor from "../../Assets/Projects/codeEditor.png";
+import Palindrome from '../../Assets/Projects/palindrome.png'
 import spreadSheet from "../../Assets/Projects/spreadSheet.png";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import cashRegister from '../../Assets/Projects/cashRegister.png'
+import shoppingCart from '../../Assets/Projects/shoppingCart.png'
+import telePhoneNumberValidator from '../../Assets/Projects/telePhoneNumberValidator.png'
 
 function Projects() {
   return (
@@ -35,7 +35,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={Palindrome}
               isBlog={false}
               title="Palindroome Checker"
               description="A Palindrome Checker is a tool that verifies whether a given word, phrase, or sequence of characters reads the same forwards and backwards."
@@ -57,7 +57,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={leaf}
+              imgPath={shoppingCart}
               isBlog={false}
               title="shoppingCart"
               description="A shopping cart is a virtual tool used in online shopping websites to collect selected items for purchase before proceeding to checkout."
@@ -68,7 +68,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={suicide}
+              imgPath={cashRegister}
               isBlog={false}
               title="cash Register"
               description="A cash register is a mechanical or electronic device used in retail stores to record sales transactions, calculate totals, and store cash securely."
@@ -79,7 +79,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={emotion}
+              imgPath={telePhoneNumberValidator}
               isBlog={false}
               title="US Telephone Number Validator"
               description="A US Telephone Number Validator is a tool or function that verifies whether a given input conforms to the format and structure of a valid US telephone number."
