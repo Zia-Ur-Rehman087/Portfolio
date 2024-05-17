@@ -2,7 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import emotion from "../../Assets/Projects/emotion.png";
 import BlogWeb from '../../Assets/Projects/blogWeb.png'
 import Palindrome from '../../Assets/Projects/palindrome.png'
 import spreadSheet from "../../Assets/Projects/spreadSheet.png";
@@ -70,7 +69,7 @@ function Projects() {
             <ProjectCard
               imgPath={cashRegister}
               isBlog={false}
-              title="cash Register"
+              title="Cash Register"
               description="A cash register is a mechanical or electronic device used in retail stores to record sales transactions, calculate totals, and store cash securely."
               ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
