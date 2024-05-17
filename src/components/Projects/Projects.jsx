@@ -25,9 +25,9 @@ function Projects() {
               imgPath={BlogWeb}
               isBlog={false}
               title="BlogWebApp"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              description="A platform for creating, sharing, and exploring engaging blog content."
+              ghLink="https://github.com/Zia-Ur-Rehman087/Blog/tree/master"
+              demoLink="https://blogforzia.vercel.app/"
             />
           </Col>
 
@@ -36,9 +36,9 @@ function Projects() {
               imgPath={Palindrome}
               isBlog={false}
               title="Palindroome Checker"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              description="A Palindrome Checker is a tool that verifies whether a given word, phrase, or sequence of characters reads the same forwards and backwards."
+              ghLink="https://github.com/Zia-Ur-Rehman087/Palindrome-checker"
+              demoLink="https://palindromechecker-lilac.vercel.app/"
             />
           </Col>
 
@@ -47,9 +47,9 @@ function Projects() {
               imgPath={spreadSheet}
               isBlog={false}
               title="Spreadsheet"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              description="A spreadsheet is a digital tool used for organizing and manipulating data in a tabular format, commonly used for calculations, analysis, and data management."
+              ghLink="https://github.com/Zia-Ur-Rehman087/spreadSheet/tree/master"
+              demoLink="spreadsheetsprof.vercel.app"              
             />
           </Col>
 
@@ -58,9 +58,9 @@ function Projects() {
               imgPath={shoppingCart}
               isBlog={false}
               title="shoppingCart"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              description="A shopping cart is a virtual tool used in online shopping websites to collect selected items for purchase before proceeding to checkout."
+              ghLink="https://github.com/Zia-Ur-Rehman087/shoppingCart"
+              demoLink="cartport.vercel.app"
             />
           </Col>
 
@@ -69,9 +69,9 @@ function Projects() {
               imgPath={cashRegister}
               isBlog={false}
               title="Cash Register"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
+              description="A cash register is used in retail stores to record sales transactions, calculate totals, and store cash securely."
+              ghLink="https://github.com/Zia-Ur-Rehman087/cashRegister"
+              demoLink="cashregisterproj.vercel.app" 
             />
           </Col>
 
@@ -80,10 +80,9 @@ function Projects() {
               imgPath={telePhoneNumberValidator}
               isBlog={false}
               title="US Telephone Number Validator"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+              description="A US Telephone Number Validator is a tool or function that verifies whether a given input conforms to the format and structure of a valid US telephone number."
+              ghLink="https://github.com/Zia-Ur-Rehman087/US-telephone-number-validator"
+              demoLink="telvalidator.vercel.app"     
             />
           </Col>
         </Row>

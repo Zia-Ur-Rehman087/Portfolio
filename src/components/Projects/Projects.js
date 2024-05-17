@@ -27,8 +27,8 @@ function Projects() {
               isBlog={false}
               title="BlogWebApp"
               description="A platform for creating, sharing, and exploring engaging blog content."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              ghLink="https://github.com/Zia-Ur-Rehman087/Blog/tree/master"
+              demoLink="https://blogforzia.vercel.app/"
             />
           </Col>
 
@@ -38,8 +38,8 @@ function Projects() {
               isBlog={false}
               title="Palindroome Checker"
               description="A Palindrome Checker is a tool that verifies whether a given word, phrase, or sequence of characters reads the same forwards and backwards."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              ghLink="https://github.com/Zia-Ur-Rehman087/Palindrome-checker"
+              demoLink="https://palindromechecker-lilac.vercel.app/"
             />
           </Col>
 
@@ -49,8 +49,8 @@ function Projects() {
               isBlog={false}
               title="Spreadsheet"
               description="A spreadsheet is a digital tool used for organizing and manipulating data in a tabular format, commonly used for calculations, analysis, and data management."
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              ghLink="https://github.com/Zia-Ur-Rehman087/spreadSheet/tree/master"
+              demoLink="spreadsheetsprof.vercel.app"              
             />
           </Col>
 
@@ -60,8 +60,8 @@ function Projects() {
               isBlog={false}
               title="shoppingCart"
               description="A shopping cart is a virtual tool used in online shopping websites to collect selected items for purchase before proceeding to checkout."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              ghLink="https://github.com/Zia-Ur-Rehman087/shoppingCart"
+              demoLink="cartport.vercel.app"
             />
           </Col>
 
@@ -70,9 +70,9 @@ function Projects() {
               imgPath={cashRegister}
               isBlog={false}
               title="Cash Register"
-              description="A cash register is a mechanical or electronic device used in retail stores to record sales transactions, calculate totals, and store cash securely."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
+              description="A cash register is used in retail stores to record sales transactions, calculate totals, and store cash securely."
+              ghLink="https://github.com/Zia-Ur-Rehman087/cashRegister"
+              demoLink="cashregisterproj.vercel.app" 
             />
           </Col>
 
@@ -82,8 +82,8 @@ function Projects() {
               isBlog={false}
               title="US Telephone Number Validator"
               description="A US Telephone Number Validator is a tool or function that verifies whether a given input conforms to the format and structure of a valid US telephone number."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+              ghLink="https://github.com/Zia-Ur-Rehman087/US-telephone-number-validator"
+              demoLink="telvalidator.vercel.app"     
             />
           </Col>
         </Row>
