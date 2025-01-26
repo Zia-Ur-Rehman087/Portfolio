@@ -1,6 +1,7 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
 import clsx from "clsx";
+import { Firefly } from "@/components/firefly";
 const inter = Inter({ 
 subsets: ["latin"],
 weight:['100','200','300','400','500','600','700','800','900'],
@@ -15,7 +16,9 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={clsx(inter.variable, "bg-background","text-foreground")}>{children}</body>
+      <body className={clsx(inter.variable, "bg-background","text-foreground")}>{children}
+        <Firefly/>
+      </body>
     </html>
   );
 }

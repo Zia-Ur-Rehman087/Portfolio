@@ -12,8 +12,8 @@ export default function Wizard(props) {
   return (
     <group {...props} dispose={null}
     position={[0,-1.5,0]}
-    scale={[0.06,0.06,0.06]}
     rotation={[0.25,0,0]}
+    scale={[0.06,0.06,0.06]}
     ref={modelRef}
     >
       <mesh
