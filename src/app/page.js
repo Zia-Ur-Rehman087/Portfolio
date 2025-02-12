@@ -3,7 +3,7 @@ import Image from "next/image";
 import bg from '../../public/background/home-background.png'
 import { Rendermodel } from "@/components/rendermodel";
 import { Navigation } from "@/components/navigation/navigation";
-import Wizard from "@/components/wizard";
+import Wizard from "@/components/models/wizard";
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between relative">
