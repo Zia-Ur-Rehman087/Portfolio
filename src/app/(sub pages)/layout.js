@@ -5,5 +5,5 @@ export default function SubPagesLayout({ children }) {
       <HomeBtn />
       {children}
     </main>
-  );
+  ) 
 }
